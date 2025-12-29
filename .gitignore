@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# CSV or data files (optional, if you don't want to commit traffic_data.csv)
+traffic_data.csv
